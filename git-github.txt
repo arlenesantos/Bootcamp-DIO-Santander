@@ -1,0 +1,57 @@
+Introdução ao Git e ao GitHub
+
+Comandos básicos de navegação no terminal
+
+    Para Unix:
+
+    - cd: mudar de diretório
+    - ls: listar
+    - mkdir: criar diretório
+    - rm -rf: remover diretório (com flag -rf: recursive force - força exclusão de todos os arquivos dentro do diretório)
+
+
+Comandos básicos de Git 
+
+    Configuração
+        git config --global user.name "Seu Nome"
+        git config --global user.email "exemplo@seuemail.com"
+
+    Criar novo repositório local
+        git init 
+
+    Adicionar arquivos para a área de staging
+        git add . (para adicionar todos os arquivos) ou 
+        git add <nome-do-arquivo>
+
+    Salvar alterações
+        git commit -m “mensagem que descreve as alterações”
+
+    Verificar se há alterações na branch
+        git status
+        
+    Verificar commits realizados
+        git log
+
+    Connectar repositório local a um repositório remoto - GitHub
+        git remote add origin <endereço no GitHub>
+
+    Enviar as alterações do repositório local para o GitHub
+        git push origin main
+
+
+Git "por baixo dos panos"
+
+    - SHA1: algoritmo de hash seguro - caracter identificador de 40 dígitos (openssl sha1)
+    - Objetos fundamentais: blobs, trees, commits (chamados de objetos internos)
+    - Sistema distribuído
+    - Segurança: chave SSH e token
+
+
+https://git-scm.com/doc
+https://git-scm.com/book/pt-br/v2
+
+
+
+
+
+
