@@ -1,0 +1,71 @@
+Introdução à Programação e Pensamento Computacional
+
+Pensamento Computacional
+
+    Quatro pilares:
+        * Decomposição: dividir um problema complexo em subproblemas;
+        * Reconhecimento de padrões: identificar padrões ou tendências, similaridades e diferenças entre os problemas;
+        * Abstração: explorar o conceito do problema para uma forma generalista;
+        * Design de algoritmos: definir passo a passo a solução do problema, automatizar.
+
+    Habilidades Complementares:
+        1. Raciocínio Lógico
+        * Indução: fenômeno observado
+        * Dedução: previsões e explicações
+        * Abdução: conclusão e premissa
+
+        2. Aperfeiçoamento
+        A partir de uma solução determinar pontos de melhora e refinamento.
+        * Encontrar solução eficiente e otimizar processos >> melhora do uso de recursos;
+        * Simplificar linhas de códigos e ter funções bem definidas >> melhora de códigos e algoritmos.
+
+Fundamentos de algoritmos
+
+    1. Tipologia e variáveis
+    2. Instruções primitivas (operadores matemáticos)
+    3. Estruturas condicionais e operadores lógicos 
+    4. Estruturas de repetição
+    5. Vetores e matrizes
+    6. Funções
+    7. Instruções de entrada e saída
+
+Linguagens de Programação
+
+    Código fonte
+    * linguagem traduzida: a partir do programa fonte, executa a análise desse programa por meio do compilador e transforma em linguagem de máquina - programa objeto. Geração e execução do programa objeto. Execução mais rápida.
+    * linguagem interpretada: programa fonte é executado diretamente. Maior flexibilidade.
+
+
+Paradigmas de Programação
+
+    Classificação:
+    * Orientação a objeto: baseado em objetos e suas interações
+    * Procedural: chamadas sucessivas e procedimentos separados;
+    * Funcional: instruções são baseadas em funções;
+    * Estruturado: estrutura de blocos aninhados;
+    * Computação distribuída: funções executadas de forma independente;
+    * Lógico
+
+
+    Orientação a objeto
+
+    Um objeto é descrito por caraterísticas específicas (o que tenho), comportamentos (o que sou capaz de fazer) e estado (como faço).
+
+    Exemplo: caneta
+                * Características: modelo, cor, carga, corpo, tampa, ponta; (atributos)
+                * Comportamentos: escrever, desenhar, rabiscar, pintar, destampar; (métodos)
+                * Estado: tampada, destampada, em uso; (estado)
+
+    Pilares de Orientação a Objeto
+
+        * Herança: evita a repetição de entidades, o princípio da herança permite uma classe herdar caraterísticas (atributos e métodos) de outra classe, gerando uma hierarquia de classes. Além de herdar as características da classe pai, a classe filha pode também definir seus próprios atributos e métodos.
+
+        * Encapsulamento: protege os elementos de um objeto. Prevê o isolamento a determinados elementos do objeto (métodos /atributos) de acordo com a necessidade de acesso a eles. Este conceito parte da premissa de que nem todo método e atributo precisam estar visíveis e acessíveis publicamente.
+
+        * Polimorfismo: princípio a partir do qual as classes filhas são capazes de invocar os métodos que, embora apresentem a mesma assinatura (tenham o mesmo nome), comportam-se de maneira diferente para cada uma das classes filhas. Com o Polimorfismo, os mesmos atributos e métodos podem ser utilizados em objetos distintos, porém, com implementações lógicas diferentes.
+
+        * Abstração : foco na reutilização de código, não é necessário conhecer o detalhe de como o código foi escrito, mas aproveitá-lo e utilizá-lo. É a capacidade de focar nos pontos mais importantes do domínio de aplicação do sistema e abstrair os detalhes menos relevantes. 
+        
+    
+
+
