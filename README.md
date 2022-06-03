@@ -1,7 +1,9 @@
 # Santander Bootcamp Fullstack Developer
 
-Repositório com minhas anotações e atividades realizadas ao longo do bootcamp. Trilha fullstack do básico ao avançado, sobre Java e Angular.<br>
-Este repositório será atualizado de acordo com o meu progresso no bootcamp. Previsão de conclusão: agosto de 2022.
+Repositório com minhas anotações e atividades realizadas ao longo do bootcamp. <br>
+Trilha fullstack do básico ao avançado, sobre Java e Angular. <br>
+Este repositório será atualizado de acordo com o meu progresso no bootcamp. <br>
+Previsão de conclusão: agosto de 2022.
 
 ## Módulo 1
 
@@ -9,7 +11,7 @@ Este repositório será atualizado de acordo com o meu progresso no bootcamp. Pr
 
 2. Introdução ao Git e ao GitHub
 
-    * Desafío de projeto: [Criando repositório - módulo 1](https://github.com/arlenesantos/Santander-DIO/tree/main/modulo1) 
+    * Desafío de projeto: [Criando repositório - módulo 1](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo1) 
 
 
 
