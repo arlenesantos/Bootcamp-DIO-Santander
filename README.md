@@ -11,7 +11,19 @@ Previsão de conclusão: agosto de 2022.
 
 2. Introdução ao Git e ao GitHub
 
-    * Desafío de projeto: [Criando repositório - módulo 1](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo1) 
+    * Desafío de projeto: [Criando repositório](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo1) 
+        - Criar um repositório para compartilhar o meu progresso ao longo do bootcamp. 
+        - Além disso, adicionei o primeiro diretório denominado modulo1, contendo anotações sobre os cursos do primeiro módulo. 
+
+## Módulo 2 
+
+1. Introdução a criação de websites com HTML5 e CSS3
+
+2. Posicionando elementos com Flexbox em CSS
+
+3. Desafío de projeto: [Recriando Instagram](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo2/recriando-instagram) 
+    * Recriar a página inicial do Instagram;
+    * Além da resolução do desafio, incluí o footer na página.
 
 
 
