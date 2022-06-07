@@ -13,9 +13,11 @@ body {
     background-color: rgb(243, 243, 243);
     margin: 0;
     padding: 0;
+}
+
+main {
     display: flex;
     justify-content: center;
-
 }
 
 .container {
@@ -37,8 +39,6 @@ body {
     height: 90vh;
 }
 
-
-
 .account {
     width: 50%;
     min-height: 34rem;
@@ -47,7 +47,6 @@ body {
     align-items: center;
     justify-content: space-around;
 }
-
 
 .group {
     width: 100%;
@@ -68,9 +67,7 @@ body {
 .logo {
     height: 3rem;
     padding-bottom: 5px;
-
 }
-
 
 .profile-photo {
     border-radius: 50%;
@@ -125,7 +122,6 @@ body {
     height: 3rem;
     width: 10rem;
     background-size: cover;
-
 }
 
 .app-download:nth-child(1) {
@@ -135,6 +131,57 @@ body {
 .app-download:nth-child(2) {
     background-image: url('./img/googleplay-button.png');
 }
+
+/* extra - footer */
+
+footer {
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+footer ul li {
+    list-style-type: none;
+    display: flex;
+    flex-basis: auto;
+}
+
+
+footer ul li a,
+footer ul li select,
+footer ul li {
+    color: #8e8e8e;
+    font-size: 12px;
+}
+
+footer ul li select {
+    border: none;
+    background-color: transparent;
+    text-align: center;
+}
+
+footer .list li {
+    padding: 0.5rem;
+    justify-content: space-around;
+}
+
+
+footer .copyright {
+    padding-top: 1rem;
+}
+
+footer .copyright li:nth-child(2) {
+    padding-left: 1rem;
+}
+
+
+
 
 /* media queries */
 
