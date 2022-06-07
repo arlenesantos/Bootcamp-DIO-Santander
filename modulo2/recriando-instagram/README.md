@@ -10,4 +10,3 @@
     * Recriando a página inicial do Instagram;
     * Além da resolução do desafio, incluí o footer na página.
          
-
