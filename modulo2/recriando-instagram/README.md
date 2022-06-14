@@ -7,6 +7,6 @@
 2. Posicionando elementos com Flexbox em CSS
 
 3. Desafio de projeto: 
-    * Recriando a página inicial do Instagram;
-    * Além da resolução do desafio, incluí o footer na página.
+    * Recriando a página inicial do Instagram.
+    
          
