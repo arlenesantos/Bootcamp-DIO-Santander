@@ -1,0 +1,27 @@
+{
+  "name": "santander-fullstack-bootcamp",
+  "version": "1.0.0",
+  "description": "Repositório com as atividades realizadas ao longo do bootcamp. <br> Trilha fullstack do básico ao avançado, sobre Java e Angular. <br> Este repositório será atualizado de acordo com o meu progresso no bootcamp. <br> Previsão de conclusão: agosto de 2022.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlenesantos/Santander-Bootcamp-DIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlenesantos/Santander-Bootcamp-DIO/issues"
+  },
+  "homepage": "https://github.com/arlenesantos/Santander-Bootcamp-DIO#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
