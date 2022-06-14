@@ -34,6 +34,6 @@ employee4.code = 2023;
 employee4.name = "Jane";
 
 console.log(employee4);
-console.log("***********");
+console.log("**********");
 
 
