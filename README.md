@@ -30,7 +30,7 @@ Previsão de conclusão: agosto de 2022.
 5. Introdução ao TypeScript
     * Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces;
     * Introdução Prática ao TypeScript
-        * Desafio de projeto: [Desafios de TypeScript] (https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo2/desafios-typescript) 
+        * Desafio de projeto: [Desafios de TypeScript](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo2/desafios-typescript) 
 
 
 
