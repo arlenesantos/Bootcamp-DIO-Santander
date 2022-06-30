@@ -1,0 +1,7 @@
+<section>
+    <div class="row row-cols-3 g-4">
+        <div class="col" *ngFor="let book of books">
+            <app-product-item [book]="book"></app-product-item>
+        </div>
+    </div>
+</section>
