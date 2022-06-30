@@ -1,0 +1,22 @@
+<section class="container my-5">
+    <form class="row" [formGroup]="userForm">
+        <div class="col-6 mx-auto">
+            <div class="form-floating mb-3">
+                <input type="hidden" formControlName="id">
+                <input type="text" class="form-control" id="firstname" formControlName="firstName">
+                <label for="firstname">Nome</label>
+            </div>
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="lastname" formControlName="lastName">
+                <label for="lastname">Sobrenome</label>
+            </div>
+            <div class="form-floating mb-3">
+                <input type="email" class="form-control" id="email" formControlName="email">
+                <label for="email">Email</label>
+            </div>
+            <button routerLink="/users" class="btn btn-secondary me-2">Voltar</button>
+            <button (click)="actionButton()" type="submit" class="btn btn-primary">Enviar</button>
+        </div>
+    </form>
+</section>
+<router-outlet></router-outlet>

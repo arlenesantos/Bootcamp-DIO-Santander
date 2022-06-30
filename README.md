@@ -32,6 +32,12 @@ Previsão de conclusão: agosto de 2022.
     * Introdução Prática ao TypeScript
         * Desafio de projeto: [Desafios de TypeScript](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo2/desafios-typescript) 
 
+## Módulo 3
+
+1. Introdução a Angular
+    * Série de cursos: páginas SPA; componentes; diretivas; serviços e injeção de dependências; serviços assíncronos; data binding; pipes.
+        * Desafio de projeto: [Front-end com Angular](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo3/desafio-bookstore)
+
 
 
 
