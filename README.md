@@ -38,6 +38,12 @@ Previsão de conclusão: agosto de 2022.
     * Série de cursos: páginas SPA; componentes; diretivas; serviços e injeção de dependências; serviços assíncronos; data binding; pipes.
         * Desafio de projeto: [Front-end com Angular](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo3/desafio-bookstore)
 
+## Módulo 4
+
+1. Introdução a Java
+    * Série de cursos: IDEs Java (Eclipse e Intellij); variáveis, tipos de dados e operadores matemáticos; entendendo métodos; lógica condicional e controle de fluxos; estruturas de repetição e arrays; trabalhando com collections; tratamento de exceções; debugging; programação orientada a objetos. 
+        * Desafio de projeto: [Banco Digital com Java](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo4/desafio-banco)
+
 
 
 
