@@ -44,7 +44,11 @@ Previsão de conclusão: agosto de 2022.
     * Série de cursos: IDEs Java (Eclipse e Intellij); variáveis, tipos de dados e operadores matemáticos; entendendo métodos; lógica condicional e controle de fluxos; estruturas de repetição e arrays; trabalhando com collections; tratamento de exceções; debugging; programação orientada a objetos. 
         * Desafio de projeto: [Banco Digital com Java](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo4/desafio-banco)
 
+## Módulo 5
 
+1. Introdução a Spring Framework
+    * Desafio de projeto: [Padrões de Projeto com Java](https://github.com/arlenesantos/Santander-Bootcamp-DIO/tree/main/modulo5/java-design-patterns)
+   
 
 
 ### Autora
