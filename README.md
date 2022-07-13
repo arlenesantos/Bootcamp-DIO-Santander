@@ -1,9 +1,9 @@
 # Santander Bootcamp Fullstack Developer
 
-Repositório com as atividades realizadas ao longo do bootcamp. <br>
-Trilha fullstack do básico ao avançado, sobre Java e Angular. <br>
-Este repositório será atualizado de acordo com o meu progresso no bootcamp. <br>
-Previsão de conclusão: agosto de 2022.
+Bootcamp de 120 horas oferecido pelo Santander em parceria com a Digital Innovation One - DIO. <br>
+Trilha fullstack trabalhando com Angular e Java. <br>
+Neste repositório estão as atividades realizadas ao longo do bootcamp. <br>
+
 
 ## Módulo 1
 
