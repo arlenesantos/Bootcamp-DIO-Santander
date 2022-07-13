@@ -1,7 +1,7 @@
 # Santander Bootcamp Fullstack Developer
 
-Bootcamp de 120 horas oferecido pelo Santander em parceria com a Digital Innovation One - DIO. <br>
 Trilha fullstack trabalhando com Angular e Java. <br>
+Bootcamp de 120 horas oferecido pelo Santander em parceria com a Digital Innovation One - DIO. <br>
 Neste repositório estão as atividades realizadas ao longo do bootcamp. <br>
 
 
